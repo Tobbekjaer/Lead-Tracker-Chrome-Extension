@@ -1,19 +1,8 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Lead Tracker Chrome Extention
+This Chrome Extension lets you track leads and save current tabs for later use. A very useful tool for surfing around on the internet and revisiting good websites and tracking leads. 
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+## How to deploy ***Lead Tracker Chrome Extention***
+1. Download the ZIP-file, unpack all files and save the folder on your local machine
+2. Go to [Chrome Extenstions](chrome://extensions/) and make sure "Developer Mode" is switched on
+3. Click "Load Unpacked" and choose the folder with all the files
+4. You should now be able to see and use the ***Lead Tracker*** Chrome Extention in the extention tab
