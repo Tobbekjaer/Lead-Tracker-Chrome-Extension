@@ -11,6 +11,7 @@ This Chrome Extension lets you track leads and save current browser tabs for lat
 3. Click **"Load Unpacked"** and choose the folder with all the files.
 4. You should now be able to see and use the **Lead Tracker Chrome Extension** in the extension tab.
 
+#### Working points
 <img width="200" alt="Skærmbillede 2024-08-28 kl  11 26 14" src="https://github.com/user-attachments/assets/a2a0c50a-bb76-4a18-b8a5-bebb4cc1fdda">
 
 
