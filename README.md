@@ -1,5 +1,5 @@
 # Lead Tracker Chrome Extention
-This Chrome Extension lets you track leads and save current tabs for later use. A very useful tool for surfing around on the internet and revisiting good websites and tracking leads.
+This Chrome Extension lets you track leads and save current browser tabs for later use. A very useful tool for surfing around on the internet and revisiting good websites and tracking leads.
 
 ![image](https://github.com/user-attachments/assets/8a751881-5a01-4840-8f8d-942eb96e53db)
 
